@@ -55,6 +55,7 @@ leang-interactive-quiz-platform/
 ├── LICENSE             # MIT License
 └── .gitignore          # Git ignore file
 
+
 Future Improvements
 
 Add server-side storage for quizzes (e.g., using a backend like Node.js or Firebase).
