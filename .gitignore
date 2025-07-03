@@ -1,0 +1,10 @@
+# Ignore temporary files
+*.log
+.DS_Store
+
+# Ignore node_modules (for future dependencies)
+node_modules/
+
+# Ignore build artifacts (if any)
+dist/
+build/
