@@ -84,5 +84,4 @@ GitHub Issues: https://github.com/nolchhonleang/leang-interactive-quiz-platform/
 
 **Star this repo if you found it useful!** ⭐  
 Made with ❤️ and a lot of late-night coding sessions.
-![image](https://github.com/user-attachments/assets/8d35c9f4-9a90-45b9-8364-0af9a8a0e240)
 
