@@ -77,8 +77,7 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 
 ## 📬 Contact
 
-Nol Chhon Leang – [Leang.codes@gmail.com](mailto:Leang.codes@gmail.com)  
-GitHub Issues: https://github.com/nolchhonleang/leang-interactive-quiz-platform/issues
+Nol Chhon Leang – [Leang.codes@gmail.com](mailto:Leang.codes@gmail.com)   
 
 ---
 
